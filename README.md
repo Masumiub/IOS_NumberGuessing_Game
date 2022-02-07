@@ -10,4 +10,4 @@ A simple number guessing for IOS. Made using Swift UI. This contains total 3 lev
 # Different Levels:
 ![levels](https://user-images.githubusercontent.com/66321598/152813032-ce9103f0-f7db-49c3-aef5-4161b5c48b33.jpg)
 
-With that Red Coloed Refresh Button, every input will be cleared.
+With that Red Colored Refresh Button, every input will be cleared.
